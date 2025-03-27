@@ -29,14 +29,12 @@ Employing appropriate statistical methods that are designed for integrated analy
 
 
 
-| SRA Study | Library Layout | Experimental Design (Tumor/Normal) | Organization name |
-|:---------:|:--------------:|:----------------------------------|:-------------------:|
-|   0       |   -              |   -  |    -                                                         |
-|   1       |   -              |   -  |    +                                                         |
-|   2       |   -              |   +  |    -                                                         |
-|   3       |   -              |   +  |    +                                                         |
-|   4       |   +              |   -  |    -                                                         |
-|   5       |   +              |   -  |    +    |
+| SRA Study | Library Layout | Experimental Design (Tumor/Normal) |    Organization name                   |
+|:---------:|:--------------:|:----------------------------------:|:--------------------------------------:|
+| SRP135952 |   PAIRED       |          12 (6/6)                  | East China Normal University           |
+| SRP133891 |   PAIRED       |          21 (12/9)                 | Hallym University Medical Center       |
+| SRP170025 |   PAIRED       |          6 (3/3)                   | Fudan University Shanghai Cancer Center|
+| SRP073446 |   PAIRED       |          9 (3/6)                   | National Chung Cheng University        |
 
 
 
